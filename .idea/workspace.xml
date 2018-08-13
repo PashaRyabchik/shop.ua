@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e07b11d6-14e7-408d-9f20-c2721b7e0738" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/config/config_db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/Db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/ishop/core/base/Model.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tmp/errors.log" beforeDir="false" afterPath="$PROJECT_DIR$/tmp/errors.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vendor/ishop/core/Router.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/ishop/core/Router.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -253,12 +248,12 @@
       <workItem from="1530200068120" duration="4232000" />
       <workItem from="1532783848139" duration="5179000" />
       <workItem from="1533985276164" duration="661000" />
-      <workItem from="1534171452553" duration="3573000" />
+      <workItem from="1534171452553" duration="3909000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39978000" />
+    <option name="totallyTimeSpent" value="40314000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -271,9 +266,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1358" height="814" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4941003" visible="true" weight="0.13790447" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4941003" visible="true" weight="0.13790447" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32945737" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -282,7 +276,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" sideWeight="0.5058997" side_tool="true" weight="0.13867489" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890856" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890856" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
