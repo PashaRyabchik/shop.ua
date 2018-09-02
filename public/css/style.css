@@ -72,7 +72,6 @@ body a{
     -webkit-appearance: none;
     border: 0;
     display: inline-block;
-    vertical-align: -webkit-baseline-middle;
     position: absolute;
     width: 18px;
     height: 18px;
